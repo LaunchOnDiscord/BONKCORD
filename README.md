@@ -1,10 +1,10 @@
-![Launch On Discord Banner](./githubbanner.jpg)
+![Launch On Discord Banner](.<img width="943" height="400" alt="githubbanner" src="https://github.com/user-attachments/assets/36f8ad87-b49b-4f11-a8be-5a0e2523992c" />
 
 # BONKCORD 
 
 Launch On Discord makes launching your own coin on discord effortless and accessible in a few clicks! 
 
-🔗 [Check out our website → launchonbonk.online](https://bonkcord.fun/)
+🔗 [Check out our website → bonkcord.fun](https://bonkcord.fun/)
 
 ---
 
