@@ -134,13 +134,13 @@ registerCommands();
 ## Coming Soon
 
 - Expand our ecosystem
-  → who says you should be only able to launch on discord? we plan to expand our ecosystem with so users can launch tokens on mutiple social platforms such as TikTok, Reddit, Wechat and more, all by the same token! 
+  → who says you should be only able to launch on discord? we plan to expand our ecosystem so users can launch tokens on mutiple social platforms such as TikTok, Reddit, Wechat and more, all by the same token! 
 
 - Reward Claims  
-  → Users will be able to claim rewards directly on our website.
+  → Users will be able to claim their bonk token rewards directly on our website.
 
 - Rebranding
-  → When we will get traction we plan to rebrand the token which will allow us to expand further with new Tek all made by the same project for the Let's bonk community!
+  → We plan to rebrand the token which will allow us to expand further with new Tek all made by the same project - for the Let's bonk community!
 ---
 
 ## Contributing
