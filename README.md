@@ -1,4 +1,4 @@
-![Launch On Discord Banner](.<img width="943" height="400" alt="githubbanner" src="https://github.com/user-attachments/assets/36f8ad87-b49b-4f11-a8be-5a0e2523992c" />
+.<img width="943" height="400" alt="githubbanner" src="https://github.com/user-attachments/assets/36f8ad87-b49b-4f11-a8be-5a0e2523992c" />
 
 # BONKCORD 
 
