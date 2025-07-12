@@ -1,14 +1,14 @@
-![Launch On Bonk Banner](./image.jpg)
+![Launch On Discord Banner](./githubbanner.jpg)
 
-# 🚀 Launch On Bonk
+# BONKCORD 
 
-Launch On Bonk makes launching your own coin on X effortless and accessible.
+Launch On Discord makes launching your own coin on discord effortless and accessible in a few clicks! 
 
-🔗 [Check out our website → launchonbonk.online](https://launchonbonk.online/)
+🔗 [Check out our website → launchonbonk.online](https://bonkcord.fun/)
 
 ---
 
-## 🌟 Features
+## Features w Bonkcord
 
 - No Fees  
   → ZERO trading fees
@@ -16,14 +16,16 @@ Launch On Bonk makes launching your own coin on X effortless and accessible.
 - Built on Solana  
   → Fast transactions, low fees, and high scalability.
 
+- Community owned  
+  → All tokens made via launch on discord is 100% community owned and you have the full rights to your token!
+
 - Fast  
-  → The fastest way to launch a coin in all of crypto
+  → We made the tool work as fast as possible, test yourself :)
 
 - Rewards  
   → Releasing a reward system that incentivizes coin longevity
 
----
-Got it — here's a **Discord bot script using slash commands (interactions)** and mirroring the **original 5-step flow** for documentation clarity. This version is structured to match your documentation format exactly, with clearly separated steps and inline comments to match each stage.
+## How does it work? - run through our code to see how Bonkcord works!
 
 ---
 
@@ -129,20 +131,19 @@ registerCommands();
 
 ---
 
-## 🛠 Coming Soon
+## Coming Soon
 
-- API Scale  
-  → Optimize the system to increase coin generation and enhance processing speed for a faster, more efficient user experience.
+- Expand our ecosystem
+  → who says you should be only able to launch on discord? we plan to expand our ecosystem with so users can launch tokens on mutiple social platforms such as TikTok, Reddit, Wechat and more, all by the same token! 
 
 - Reward Claims  
   → Users will be able to claim rewards directly on our website.
 
-- Wallet Integration  
-  → Seamless connection with your wallet.
-
+- Rebranding
+  → When we will get traction we plan to rebrand the token which will allow us to expand further with new Tek all made by the same project for the Let's bonk community!
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community!
 
@@ -152,6 +153,6 @@ We welcome contributions from the community!
 
 ---
 
-## 📬 Contact
+## Contact
 
-For questions or support, connect with us on [Twitter]([https://twitter.com](https://x.com/Launch_on_bonk)).
+For questions or support, connect with us on [Twitter]([https://x.com/bonk_cord)).
