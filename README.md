@@ -11,7 +11,7 @@ Launch On Discord makes launching your own coin on discord effortless and access
 ## Features w Bonkcord
 
 - No Fees  
-  → ZERO trading fees
+  → ZERO creation fees
 
 - Built on Solana  
   → Fast transactions, low fees, and high scalability.
